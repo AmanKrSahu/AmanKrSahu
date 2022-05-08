@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">"Programming is like having sex, One mistake and you have to support it for the rest of your life."</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/NKmM-72FWkbpE6msHFNdysFUY0unUIbhvBzIM0LH8qI/rs:fit:626:443:1/g:ce/aHR0cHM6Ly9pbWFn/ZS5mcmVlcGlrLmNv/bS9mcmVlLXZlY3Rv/ci90aW55LWN1dGUt/Y2hpbGRyZW4tbGVh/cm5pbmctY29kaW5n/Xzc0ODU1LTE0MTc1/LmpwZw">
-
+<img src="https://imgs.search.brave.com/NKmM-72FWkbpE6msHFNdysFUY0unUIbhvBzIM0LH8qI/rs:fit:626:443:1/g:ce/aHR0cHM6Ly9pbWFn/ZS5mcmVlcGlrLmNv/bS9mcmVlLXZlY3Rv/ci90aW55LWN1dGUt/Y2hpbGRyZW4tbGVh/cm5pbmctY29kaW5n/Xzc0ODU1LTE0MTc1/LmpwZw" alt="AmanKrSahu" /> 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **amankrsahu003@gmail.com**
