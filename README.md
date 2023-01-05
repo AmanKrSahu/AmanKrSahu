@@ -22,11 +22,11 @@ Hello, I am **Aman** a sophomore at **Indian Institute of Information Technology
 
 <table>
     <tr style="border:none; background:none;">
-        <td style="border:none;"><img src="https://github-readme-stats.vercel.app/api?username=amankrsahu&theme=tokyonight&show_icons=true"      display=block width=100% height=auto alt="1" ></td>
-        <td style="border:none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amankrsahu&theme=tokyonight" display=block width=100% height=auto alt="2" ></td>
+        <td style="border:none; background:none;"><img src="https://github-readme-stats.vercel.app/api?username=amankrsahu&theme=tokyonight&show_icons=true" display=block width=100% height=auto alt="1" ></td>
+        <td style="border:none; background:none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amankrsahu&theme=tokyonight" display=block width=100% height=auto alt="2" ></td>
     </tr>
     <tr style="border:none; background:none;">
-        <td style="border:none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankrsahu&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook" display=block width=100% height=auto  alt="3" ></td>
+        <td style="border:none; background:none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankrsahu&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook" display=block width=100% height=auto  alt="3" ></td>
     </tr>
 </table>
 
