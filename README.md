@@ -6,7 +6,7 @@
 
 Hello, I am **Aman** a sophomore at **Indian Institute of Information Technology, Nagpur** pursing my bachelor's in **Computer Science Engineering**. I have a desire to solve real-world problems using technology. I intend to work on projects that involve **Machine Learning**, **Cloud** or **Web Development**. When I'm not coding, you can find me doing sketching, swimming or playing basketball. Feel free to check out my GitHub repository to see some of the projects I have worked on.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amankrsahu&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="amankrsahu" /></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmanKrSahu&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="amankrsahu" /></a></p>
 
 - :sparkles: Looking forward to work on my personality
 - :mortar_board: Currently I am engaged in learning *Deep Learning*
@@ -23,13 +23,13 @@ Hello, I am **Aman** a sophomore at **Indian Institute of Information Technology
 <table>
     <tr style="border:none; background:none;">
         <td style="border:none; background:none;"><img src="https://github-readme-stats.vercel.app/api?username=AmanKrSahu&theme=tokyonight&show_icons=true" display=block width=100% height=auto alt="1" ></td>
-        <td style="border:none; background:none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amankrsahu&theme=tokyonight" display=block width=100% height=auto alt="2" ></td>
+        <td style="border:none; background:none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanKrSahu&theme=tokyonight" display=block width=100% height=auto alt="2" ></td>
     </tr>
     <tr style="border:none; background:none;">
-        <td style="border:none; background:none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanKrSahu&theme=tokyonight&layout=compact" display=block width=100% height=auto  alt="3" ></td>
+        <td style="border:none; background:none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanKrSahu&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook" display=block width=100% height=auto  alt="3" ></td>
     </tr>
 </table>
 
 # :low_brightness:Productivity Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amankrsahu&theme=tokyonight" display=block width=100% height=auto  alt="1" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanKrSahu&theme=tokyonight" display=block width=100% height=auto  alt="1" >
