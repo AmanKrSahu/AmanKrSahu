@@ -6,10 +6,10 @@
 
 Hello, I am **Aman** a sophomore at **Indian Institute of Information Technology, Nagpur** pursing my bachelor's in **Computer Science Engineering**. I have a desire to solve real-world problems using technology. I intend to work on projects that involve **Machine Learning**, **Cloud** or **Web Development**. When I'm not coding, you can find me doing sketching, swimming or playing basketball. Feel free to check out my GitHub repository to see some of the projects I have worked on.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmanKrSahu&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="amankrsahu" /></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmanKrSahu&theme=juicyfresh&column=6&margin-w=15&margin-h=15" alt="amankrsahu" /></a></p>
 
 - :sparkles: Looking forward to work on my personality
-- :mortar_board: Currently I am engaged in learning *Deep Learning*
+- :mortar_board: Currently I am engaged in learning *Computer Vision & Autonomous Systems*
 - :dancers: I’m looking to collaborate on projects involving *Machine learning* and *Deep learning*
 - :trophy: 2023 Goals: Explore more about ongoing research on Artificial Intelligence especially in healthcare industry
 - :pushpin: Fun fact: I love to code
