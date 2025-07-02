@@ -1,35 +1,59 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<h1>
+  Hello, I'm Aman ~ @AmanKrSahu <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
+</h1>
 
-# Hello, I'm Aman ~ @AmanKrSahu<img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AmanKrSahu&theme=discord&row=1&no-bg=true&margin-w=15&margin-h=15" alt="AmanKrSahu trophies" />
+  </a>
+</p>
 
-[![Gmail URL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amankrsahu003@gmail.com) &nbsp;[![Linkedin URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-sahu-88773123a/) &nbsp; [![Instagram URL](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz.amansahu/) &nbsp;[![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itzamansahu) &nbsp; [![Discord URL](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/539751578866024479) &nbsp; [![Medium URL](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](medium.com/@amankrsahu003)
+- 🎓 CSE Graduate from IIIT Nagpur
+- 🤖 Focused on AI, Web Dev & Product Building
+- 🚀 Building an AI-based startup on the side
+- 💻 Passionate about scalable, real-world tech solutions
+- 🧠 Learning & growing in AI and Full-Stack Dev
+- 📈 Thrive in fast-paced, collaborative environments
+- 🧩 Strategic thinker – recently into chess
+- 🎨 Sketching | 🏀 Basketball | 🏊 Swimming enthusiast
+- 🤝 Always open to connect, learn & collaborate
 
-Hello, I am **Aman** a sophomore at **Indian Institute of Information Technology, Nagpur** pursing my bachelor's in **Computer Science Engineering**. I have a desire to solve real-world problems using technology. I intend to work on projects that involve **Machine Learning**, **Cloud** or **Web Development**. When I'm not coding, you can find me doing sketching, swimming or playing basketball. Feel free to check out my GitHub repository to see some of the projects I have worked on.
+> Click to expand and view a detailed profile description 👇
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmanKrSahu&theme=juicyfresh&column=6&margin-w=15&margin-h=15" alt="amankrsahu" /></a></p>
+<details>
+  <summary>Profile Details</summary>
 
-- :sparkles: Looking forward to work on my personality
-- :mortar_board: Currently I am engaged in learning *Computer Vision & Autonomous Systems*
-- :dancers: I’m looking to collaborate on projects involving *Machine learning* and *Deep learning*
-- :trophy: 2023 Goals: Explore more about ongoing research on Artificial Intelligence especially in healthcare industry
-- :pushpin: Fun fact: I love to code
+  | Overview | Follow up Issues & PRs |
+  |:--------:|:-------------------------:|
+  | ![Profile Overview](assets/profile.overview.svg) | ![Follow up Issues & PRs](assets/profile.followup.svg) |
+  | Language Activity | Recent activity |
+  | ![Language Activity](assets/profile.languages.activity.svg) | ![Recent activity](assets/profile.recent.activity.svg) |
 
-# :low_brightness:What I'm focusing on
+</details>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="45" height="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="45" height="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="45" height="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="45" height="45"/>
-                      
-# :low_brightness:GitHub Stats
+## Social Handles
 
-<table>
-    <tr style="border:none; background:none;">
-        <td style="border:none; background:none;"><img src="https://github-readme-stats.vercel.app/api?username=AmanKrSahu&theme=tokyonight&show_icons=true" display=block width=100% height=auto alt="1" ></td>
-        <td style="border:none; background:none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanKrSahu&theme=tokyonight" display=block width=100% height=auto alt="2" ></td>
-    </tr>
-    <tr style="border:none; background:none;">
-        <td style="border:none; background:none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanKrSahu&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook" display=block width=100% height=auto  alt="3" ></td>
-    </tr>
-</table>
+> My journey spans across multiple platforms driven by curiosity, creativity, and the urge to build and share. Stay connected with me across platforms follow, explore, or reach out through the links below.
 
-# :low_brightness:Productivity Stats
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="Portfolio website" /></a>
+  <a href="mailto:amankrsahu003@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=black" alt="Email ID" /></a>
+  <a href="https://www.linkedin.com/in/amankrsahu"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn profile" /></a>
+  <a href="https://dev.to/amankrsahu"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=black" alt="Dev.to profile" /></a>
+  <a href="https://discordapp.com/users/539751578866024479"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=black" alt="Discord profile" ></a>
+  <a href="https://www.instagram.com/itz.amansahu/"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram profile" ></a>
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmanKrSahu&theme=tokyonight" display=block width=100% height=auto  alt="1" >
+![SVG Snake Contribution Graph](https://raw.githubusercontent.com/AmanKrSahu/AmanKrSahu/dist/output/github-contribution-grid-snake-dark.svg)
+
+## Latest Blog Posts
+
+> You can find my other blogs at [dev.to/amankrsahu](https://dev.to/amankrsahu).
+
+<!-- BLOG-POST-LIST:START -->
+
+- [The Crumb Trail: Managing Cookies in Next.js](https://dev.to/amankrsahu/the-crumb-trail-managing-cookies-in-nextjs-em8)
+- [How do you serve media files correctly in Docker with Next.js and Nginx!?](https://dev.to/amankrsahu/how-do-you-serve-media-files-correctly-in-docker-with-nextjs-and-nginx-5b35)
+- [Mastering Code Quality: Setting Up ESLint, Prettier, Lint-Staged & Husky for Next.js 15 Like a Pro!](https://dev.to/amankrsahu/mastering-code-quality-setting-up-eslint-prettier-lint-staged-husky-for-nextjs-15-like-a-438m)
+- [Tired of Confusing Commits? Here’s How to Fix Them with Commitlint!](https://dev.to/amankrsahu/tired-of-confusing-commits-heres-how-to-fix-them-with-commitlint-3lfj)
+<!-- BLOG-POST-LIST:END -->
