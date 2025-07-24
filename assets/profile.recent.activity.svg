@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#2 feat(ui): added app layout along with sidebar</span>
+                                        <span class="issue">#1 feat(config): added prisma &amp; trpc setup</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">untitled-prj/ui-library</span></div>
-                                    <div>26 files changed <span class="code">++2545 --10</span></div>
+                                    <div> in <span class="repo">AmanKrSahu/ai-migo</span></div>
+                                    <div>12 files changed <span class="code">++968 --10</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#2 feat(ui): added app layout along with sidebar</span>
+                                        <span class="issue">#1 feat(config): added prisma &amp; trpc setup</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">untitled-prj/ui-library</span></div>
-                                    <div>26 files changed <span class="code">++2545 --10</span></div>
+                                    <div> in <span class="repo">AmanKrSahu/ai-migo</span></div>
+                                    <div>12 files changed <span class="code">++968 --10</span></div>
                                 </div>
                             </section>
                         </div>
@@ -58,9 +58,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">feature/app</span>
+                                        <span class="code">dev</span>
                                         in
-                                        <span class="repo">untitled-prj/ui-library</span>
+                                        <span class="repo">AmanKrSahu/ai-migo</span>
                                     </div>
                                 </div>
                             </section>
@@ -76,7 +76,7 @@
                       branch
                                         <span class="code">main</span>
                                         in
-                                        <span class="repo">untitled-prj/ui-library</span>
+                                        <span class="repo">AmanKrSahu/ai-migo</span>
                                     </div>
                                 </div>
                             </section>
@@ -90,7 +90,7 @@
                                     <div class="content">
                                         Created new
                       repository
-                                        <span class="repo">untitled-prj/ui-library</span>
+                                        <span class="repo">AmanKrSahu/ai-migo</span>
                                     </div>
                                 </div>
                             </section>
