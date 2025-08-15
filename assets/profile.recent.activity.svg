@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#7 feat(api): added task api endpoints &amp; resolved session issue</span>
+                                        <span class="issue">#12 fix(deploy): fixed vercel deployment issues</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">AmanKrSahu/mindmesh</span></div>
-                                    <div>9 files changed <span class="code">++548 --95</span></div>
+                                    <div>2 files changed <span class="code">++111 --127</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#7 feat(api): added task api endpoints &amp; resolved session issue</span>
+                                        <span class="issue">#12 fix(deploy): fixed vercel deployment issues</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">AmanKrSahu/mindmesh</span></div>
-                                    <div>9 files changed <span class="code">++548 --95</span></div>
+                                    <div>2 files changed <span class="code">++111 --127</span></div>
                                 </div>
                             </section>
                         </div>
@@ -57,12 +57,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#6 feat(api): added project api endpoints</span>
+                                        <span class="issue">#11 fix(build): resolved errors during build for deployment</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">AmanKrSahu/mindmesh</span></div>
-                                    <div>5 files changed <span class="code">++404 --1</span></div>
+                                    <div>38 files changed <span class="code">++123 --330</span></div>
                                 </div>
                             </section>
                         </div>
@@ -74,12 +74,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#6 feat(api): added project api endpoints</span>
+                                        <span class="issue">#11 fix(build): resolved errors during build for deployment</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">AmanKrSahu/mindmesh</span></div>
-                                    <div>5 files changed <span class="code">++404 --1</span></div>
+                                    <div>38 files changed <span class="code">++123 --330</span></div>
                                 </div>
                             </section>
                         </div>
@@ -91,12 +91,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#3 feat(config): added e2b sandbox setup</span>
+                                        <span class="issue">#10 config(deploy): added vercel.json file in frontend</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">AmanKrSahu/ai-migo</span></div>
-                                    <div>6 files changed <span class="code">++1255 --29</span></div>
+                                    <div> in <span class="repo">AmanKrSahu/mindmesh</span></div>
+                                    <div>1 file changed <span class="code">++8 --0</span></div>
                                 </div>
                             </section>
                         </div>
