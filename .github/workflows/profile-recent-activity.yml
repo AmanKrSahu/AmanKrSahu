@@ -1,0 +1,24 @@
+# Read the full reference here: https://github.com/lowlighter/metrics/blob/master/action.yml
+name: Recent Activity 
+on:
+  # Schedule updates (At minute 0 past every 12th hour)
+  schedule: [{ cron: "0 */12 * * *" }]
+  # Lines below let you run workflow manually with each commit
+  workflow_dispatch:
+  push: { branches: ["main"] }
+
+jobs:
+  # https://github.com/lowlighter/metrics/blob/master/source/plugins/achievements/README.md
+  achievement-metrics:      
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          committer_branch: metrics-render
+          filename: assets/profile.recent.activity.svg
+          token: ${{ secrets.PROFILE_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create

@@ -1,0 +1,5 @@
+# Access Tokens (nektos/act: To run GitHub Actions locally)
+.secrets
+
+# Visual Studio Code
+.vscode/

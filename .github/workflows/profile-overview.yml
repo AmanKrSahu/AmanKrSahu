@@ -1,0 +1,22 @@
+# Read the full reference here: https://github.com/lowlighter/metrics/blob/master/action.yml
+name: Profile Overview
+on:
+  # Schedule updates (At minute 0 past every 12th hour)
+  schedule: [{ cron: "0 */12 * * *" }]
+  # Lines below let you run workflow manually with each commit
+  workflow_dispatch:
+  push: { branches: ["main"] }
+
+jobs:
+  # https://github.com/lowlighter/metrics/blob/master/source/plugins/lines/README.md
+  profile-overview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          committer_branch: metrics-render
+          filename: assets/profile.overview.svg
+          user: ${{ github.repository_owner }}
+          token: ${{ secrets.PROFILE_TOKEN }}
+          base: header, activity, community, repositories
+          plugin_lines: yes
