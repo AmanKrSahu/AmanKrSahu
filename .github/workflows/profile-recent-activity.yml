@@ -8,8 +8,8 @@ on:
   push: { branches: ["main"] }
 
 jobs:
-  # https://github.com/lowlighter/metrics/blob/master/source/plugins/achievements/README.md
-  achievement-metrics:      
+  # https://github.com/lowlighter/metrics/blob/master/source/plugins/activity/README.md
+  recent-activity:      
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -20,5 +20,6 @@ jobs:
           base: ""
           plugin_activity: yes
           plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_activity_days: 0
+          plugin_activity_filter: push
+          plugin_activity_timestamps: yes
