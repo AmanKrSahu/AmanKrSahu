@@ -4,12 +4,12 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=AmanKrSahu&theme=discord&row=1&no-bg=true&margin-w=15&margin-h=15" alt="AmanKrSahu trophies" />
+    <img src="https://github-profile-trophy-tawny.vercel.app/?username=AmanKrSahu&theme=discord&row=1&no-bg=true&margin-w=15&margin-h=15" alt="AmanKrSahu trophies" />
   </a>
 </p>
 
 - 🎓 CSE Graduate from IIIT Nagpur
-- 🤖 Focused on AI, Web Dev & Product Building
+- 🤖 Focused on AI, Full-Stack Dev & Product Building
 - 💻 Passionate about scalable, real-world tech solutions
 - 🧠 Learning & growing in AI and Full-Stack Dev
 - 📈 Thrive in fast-paced, collaborative environments
