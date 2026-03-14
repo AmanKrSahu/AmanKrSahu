@@ -12,14 +12,15 @@ jobs:
   recent-activity:      
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           committer_branch: metrics-render
           filename: assets/profile.recent.activity.svg
           token: ${{ secrets.PROFILE_TOKEN }}
-          base: ""
+          user: AmanKrSahu
+          base: header
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 0
-          plugin_activity_filter: push
-          plugin_activity_timestamps: yes
+          plugin_activity_filter: all
+          plugin_activity_visibility: public
